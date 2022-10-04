@@ -1,4 +1,37 @@
-### Hi there 👋
+# Hi there 👋, I'm Qory
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kemas%20Muhammad%20Qori%20Ichsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kemas-muhammad-qori-ichsan-8777281b6/)](https://www.linkedin.com/in/kemas-muhammad-qori-ichsan-8777281b6/)
+[![Gmail Badge](https://img.shields.io/badge/-qorichsan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qorichsan@gmail.com)](mailto:qorichsan@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jquory) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jquory)
+
+- 🔭 **I’m currently working as a Frontend Developer.**
+- 🌱 **I’m currently learning Mobile Development with Flutter.**
+
+<img width="100%" src="./git.gif" />
+
+Current Project
+```text
+IT Festival 2022
+```
+
+**Languages and Tools:**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="30" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="30" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4">
+<img height="30" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4">
+<img height="30" src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667">
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/krushnatkhawale/github-readme-stats)*
+
+![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=jquory&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jquory&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jquory&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
 <!--
 **jquory/jquory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
