@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Qory
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kemas%20Muhammad%20Qori%20Ichsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kemas-muhammad-qori-ichsan-8777281b6/)](https://www.linkedin.com/in/kemas-muhammad-qori-ichsan-8777281b6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kemas%20Muhammad%20Qori%20Ichsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qori)](https://www.linkedin.com/in/qori)
 [![Gmail Badge](https://img.shields.io/badge/-qorichsan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qorichsan@gmail.com)](mailto:qorichsan@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jquory) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jquory)
 
