@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jquory) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jquory)
 
 - 🔭 **I’m currently working as a Frontend Developer.**
-- 🌱 **I’m currently learning Mobile Development with Flutter.**
+- 🌱 **I’m currently learning Mobile Development with React Native.**
 
 <img width="100%" src="./git.gif" />
 
