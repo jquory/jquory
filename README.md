@@ -7,7 +7,7 @@
 
 Current Project
 ```text
-IT Festival 2022
+qory.dev
 ```
 
 **<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40" >Languages and Tools:**  
